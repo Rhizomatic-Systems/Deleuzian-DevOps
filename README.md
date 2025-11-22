@@ -1,4 +1,4 @@
-<!-- doc ver 0.7.3 -->
+<!-- doc ver 0.9.3 -->
 # Field Manual
 ## Deleuzian DevOps
 ### FM-RS10000
@@ -79,4 +79,10 @@ I take three key points from this interview:
 Let’s re-examine this diagram of the assemblage:
 
 <img src="https://raw.githubusercontent.com/Rhizomatic-Systems/Deleuzian-DevOps/refs/heads/main/img/FM-RS10000-DETERRITORIALIZATION-01.png" />
+
+What’s up with this line?
+
+Well, just because assemblages are amorphous doesn’t mean that there’s no way to demarcate what’s in the assemblage and what is not. This particular assemblage has a ‘territory,’ of sorts: everything that’s inside the line is part of the territory, and everything that’s not is outside. Think of a fort, or a castle:
+
+<img src="https://raw.githubusercontent.com/Rhizomatic-Systems/Deleuzian-DevOps/refs/heads/main/img/FM-RS10000-DETERRITORIALIZATION-02.jpg" />
 
