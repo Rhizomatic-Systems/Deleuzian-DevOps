@@ -1,4 +1,4 @@
-<!-- doc ver 0.9.3 -->
+<!-- doc ver 0.10.3 -->
 # Field Manual
 ## Deleuzian DevOps
 ### FM-RS10000
@@ -86,3 +86,6 @@ Well, just because assemblages are amorphous doesn’t mean that there’s no wa
 
 <img src="https://raw.githubusercontent.com/Rhizomatic-Systems/Deleuzian-DevOps/refs/heads/main/img/FM-RS10000-DETERRITORIALIZATION-02.jpg" />
 
+Or, since we’re not just talking about physical spaces, a social circle or group:
+
+<img src="https://raw.githubusercontent.com/Rhizomatic-Systems/Deleuzian-DevOps/refs/heads/main/img/FM-RS10000-DETERRITORIALIZATION-03.png" />
