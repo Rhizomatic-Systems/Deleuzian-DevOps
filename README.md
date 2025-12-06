@@ -1,4 +1,4 @@
-<!-- doc ver 0.10.3 -->
+<!-- doc ver 0.11.3 -->
 # Field Manual
 ## Deleuzian DevOps
 ### FM-RS10000
@@ -89,3 +89,7 @@ Well, just because assemblages are amorphous doesn’t mean that there’s no wa
 Or, since we’re not just talking about physical spaces, a social circle or group:
 
 <img src="https://raw.githubusercontent.com/Rhizomatic-Systems/Deleuzian-DevOps/refs/heads/main/img/FM-RS10000-DETERRITORIALIZATION-03.png" />
+
+Of course, this would extend around all the members of Rails Core, hence it being cut off at the bottom. But the pink line would designate the boundaries of the assemblage that makes up Rails Core.
+
+#### Deterritorialization Defined
