@@ -1,4 +1,4 @@
-<!-- doc ver 0.11.3 -->
+<!-- doc ver 0.12.3 alpha -->
 # Field Manual
 ## Deleuzian DevOps
 ### FM-RS10000
@@ -93,3 +93,5 @@ Or, since we’re not just talking about physical spaces, a social circle or gro
 Of course, this would extend around all the members of Rails Core, hence it being cut off at the bottom. But the pink line would designate the boundaries of the assemblage that makes up Rails Core.
 
 #### Deterritorialization Defined
+
+So what happens when these boundaries get crossed? Well, your castle gets invaded. A new member joins the team. New servers are brought online. This process is called ‘deterritorialization.’ Healing the lines, repairing them, and re-containing the boundary is called ‘reterritorialization.’ I recently came across a really interesting symbol of deterritorialization: the Open Source logo:
