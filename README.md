@@ -1,4 +1,4 @@
-<!-- doc ver 0.12.3 alpha -->
+<!-- doc ver 0.13.3 alpha -->
 # Field Manual
 ## Deleuzian DevOps
 ### FM-RS10000
@@ -95,3 +95,5 @@ Of course, this would extend around all the members of Rails Core, hence it bein
 #### Deterritorialization Defined
 
 So what happens when these boundaries get crossed? Well, your castle gets invaded. A new member joins the team. New servers are brought online. This process is called ‘deterritorialization.’ Healing the lines, repairing them, and re-containing the boundary is called ‘reterritorialization.’ I recently came across a really interesting symbol of deterritorialization: the Open Source logo:
+
+<img src="https://raw.githubusercontent.com/Rhizomatic-Systems/Deleuzian-DevOps/refs/heads/main/img/FM-RS10000-DETERRITORIALIZATION-04.gif" align="center" />
