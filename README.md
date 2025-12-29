@@ -1,4 +1,4 @@
-<!-- doc ver 0.13.3 alpha -->
+<!-- doc ver 0.14.3 alpha -->
 # Field Manual
 ## Deleuzian DevOps
 ### FM-RS10000
@@ -97,3 +97,13 @@ Of course, this would extend around all the members of Rails Core, hence it bein
 So what happens when these boundaries get crossed? Well, your castle gets invaded. A new member joins the team. New servers are brought online. This process is called ‘deterritorialization.’ Healing the lines, repairing them, and re-containing the boundary is called ‘reterritorialization.’ I recently came across a really interesting symbol of deterritorialization: the Open Source logo:
 
 <img src="https://raw.githubusercontent.com/Rhizomatic-Systems/Deleuzian-DevOps/refs/heads/main/img/FM-RS10000-DETERRITORIALIZATION-04.gif" align="center" />
+
+Check it out: visually, this logo communicates the deterritorializing effect of opening up your source code: the private internals have now been exposed internally. The walls have been breeched!
+
+Another example, from building a web service: we start off with just our service:
+
+<img src="https://raw.githubusercontent.com/Rhizomatic-Systems/Deleuzian-DevOps/refs/heads/main/img/FM-RS10000-DETERRITORIALIZATION-05.png" align="center" />
+
+We have here an application server, a database, and our user’s identity. They form the assemblage of our system. Remember, abstract concepts are objects just as code and servers are! Our identity notion is stored within the database, therefore, they’re connected.
+
+Next, we decide to implement a ‘log in with Twitter’ feature.
