@@ -1,4 +1,4 @@
-<!-- doc ver 0.14.3 alpha -->
+<!-- doc ver 0.14.4 alpha -->
 # Field Manual
 ## Deleuzian DevOps
 ### FM-RS10000
@@ -26,8 +26,8 @@ So how can we talk about composites? Well, a programmer’s fundamental tool is 
 Let’s think about your body: it’s a composite, you’re made up of (among other things) a whole pile of organs, and one (skin) wrapping the rest of them up in a nice black box. If we had lived a few hundred years ago, thinking of the body as a black box would be a pretty fair metaphor: after all, if you take out someone’s heart, they die. The box needs all of its parts inside. Today, though, that’s not true: we can do heart transplants. Further, we have artificial hearts. A person with an artificial heart is not the exact same as a person without one, yet they are both still people. Thinking of a body as a totality leaks as an abstraction in modern times.
 
 Let’s move away from biology for a bit and into web applications instead. Here’s an architecture diagram of a typical web service:
-
-<img src="https://github.com/Rhizomatic-Systems/Deleuzian-DevOps/blob/main/img/FM-RS10000-ASSEMBLAGES-01.png" alt="web service" />
+<p align="center">
+<img src="https://github.com/Rhizomatic-Systems/Deleuzian-DevOps/blob/main/img/FM-RS10000-ASSEMBLAGES-01.png" alt="web service" /> </p>
 
 Looks pretty normal, right? Let’s modify it a bit:
 
