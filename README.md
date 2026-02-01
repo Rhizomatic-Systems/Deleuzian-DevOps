@@ -1,4 +1,4 @@
-<!-- doc ver 0.14.4 alpha -->
+<!-- doc ver 0.15.4 alpha -->
 # Field Manual
 ## Deleuzian DevOps
 ### FM-RS10000
@@ -107,3 +107,5 @@ Another example, from building a web service: we start off with just our service
 We have here an application server, a database, and our user’s identity. They form the assemblage of our system. Remember, abstract concepts are objects just as code and servers are! Our identity notion is stored within the database, therefore, they’re connected.
 
 Next, we decide to implement a ‘log in with Twitter’ feature.
+
+<img src="https://raw.githubusercontent.com/Rhizomatic-Systems/Deleuzian-DevOps/refs/heads/main/img/FM-RS10000-DETERRITORIALIZATION-06.png" align="center" />
