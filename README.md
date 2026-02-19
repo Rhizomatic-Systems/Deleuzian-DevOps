@@ -1,4 +1,4 @@
-<!-- doc ver 0.15.4 alpha -->
+<!-- doc ver 0.17.4 alpha -->
 # Field Manual
 ## Deleuzian DevOps
 ### FM-RS10000
@@ -92,7 +92,7 @@ Or, since we’re not just talking about physical spaces, a social circle or gro
 
 Of course, this would extend around all the members of Rails Core, hence it being cut off at the bottom. But the pink line would designate the boundaries of the assemblage that makes up Rails Core.
 
-#### Deterritorialization Defined
+#### 2.2.1 - Deterritorialization Defined
 
 So what happens when these boundaries get crossed? Well, your castle gets invaded. A new member joins the team. New servers are brought online. This process is called ‘deterritorialization.’ Healing the lines, repairing them, and re-containing the boundary is called ‘reterritorialization.’ I recently came across a really interesting symbol of deterritorialization: the Open Source logo:
 
@@ -109,3 +109,44 @@ We have here an application server, a database, and our user’s identity. They 
 Next, we decide to implement a ‘log in with Twitter’ feature.
 
 <img src="https://raw.githubusercontent.com/Rhizomatic-Systems/Deleuzian-DevOps/refs/heads/main/img/FM-RS10000-DETERRITORIALIZATION-06.png" align="center" />
+
+We can minimize the effects (or reterritorialize our service) by making sure to have our own concept of identity within the system, and making sure that we have our own notion of identity within the system, and just connecting Twitter’s notion of identity to our own:
+
+<img src="https://raw.githubusercontent.com/Rhizomatic-Systems/Deleuzian-DevOps/refs/heads/main/img/FM-RS10000-DETERRITORIALIZATION-07.png" align="center" />
+
+Now, by containing the Twitter-assemblage entirely within our service, I don’t mean that it actually is. Obviously, the Twitter-assemblage is interconnected with a ton of other assemblages that represent other services. But from our perspective, they are now a part of our assemblage. The decisions they make affect us. While our code is separated, we’re not totally separate anymore: updates and policies of Twitter have a direct effect on us.
+
+There’s also a more sublte, secondary re/de-territorialization going on here: our code from our service. These used to be isomorphic, but now our code has claimed a territory of its own, and is now just one assemblage within our system-assemblage, instead of being our system-assemblage.
+
+#### 2.2.2 - A git example
+The previous notion of deterritorialization largely relied on the notion of dependencies as the mechanism which we drew our diagrams. But it doesn’t have to be that way. Let’s take another example: git.
+
+Every GitHub pull request is an act of deterritorialization, and every merge is one of re-territorialization. Consider this small repository, with three commits:
+
+<img src="https://raw.githubusercontent.com/Rhizomatic-Systems/Deleuzian-DevOps/refs/heads/main/img/FM-RS10000-DETERRITORIALIZATION-08.png" align="center" />
+
+You do a git clone:
+
+<img src="https://raw.githubusercontent.com/Rhizomatic-Systems/Deleuzian-DevOps/refs/heads/main/img/FM-RS10000-DETERRITORIALIZATION-09.png" align="center" />
+
+Make a new commit, adding a new object into your repo-assemblage:
+
+<img src="https://raw.githubusercontent.com/Rhizomatic-Systems/Deleuzian-DevOps/refs/heads/main/img/FM-RS10000-DETERRITORIALIZATION-10.png" align="center" />
+
+Then you send me an email, asking me to pull from your repository:
+
+<img src="https://raw.githubusercontent.com/Rhizomatic-Systems/Deleuzian-DevOps/refs/heads/main/img/FM-RS10000-DETERRITORIALIZATION-11.png" align="center" />
+
+You like the change, so you do a `git fetch`:
+
+<img src="https://raw.githubusercontent.com/Rhizomatic-Systems/Deleuzian-DevOps/refs/heads/main/img/FM-RS10000-DETERRITORIALIZATION-12.png" align="center" />
+
+de-territorialized!
+
+Now it makes the local copy:
+
+<img src="https://raw.githubusercontent.com/Rhizomatic-Systems/Deleuzian-DevOps/refs/heads/main/img/FM-RS10000-DETERRITORIALIZATION-13.png" align="center" />
+
+and your repository has been re-territorialized. These steps happen so quickly that you probably don’t even think about them, but conceptually, this is what’s happening.
+
+#### 2.2.3 - A Social Example
