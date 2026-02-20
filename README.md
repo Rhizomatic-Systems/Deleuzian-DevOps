@@ -1,4 +1,4 @@
-<!-- doc ver 0.17.4 alpha -->
+<!-- doc ver 0.18.4 alpha -->
 # Field Manual
 ## Deleuzian DevOps
 ### FM-RS10000
@@ -150,3 +150,7 @@ Now it makes the local copy:
 and your repository has been re-territorialized. These steps happen so quickly that you probably don’t even think about them, but conceptually, this is what’s happening.
 
 #### 2.2.3 - A Social Example
+
+One last example that’s even less related to code: entering a new social group. You’re at a conference, and there are four people standing around talking:
+
+<img src="https://raw.githubusercontent.com/Rhizomatic-Systems/Deleuzian-DevOps/refs/heads/main/img/FM-RS10000-DETERRITORIALIZATION-14.png" align="center" />
